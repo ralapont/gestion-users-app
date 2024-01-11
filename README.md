@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # GestionUsersApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.9.
@@ -29,4 +28,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # gestion-users-app
 Gestión usuario angular 17
->>>>>>> b25438335f1997b602e1a38be632c4c21c71f064
+
+===================================================
+Ejecución: ng serve -o
